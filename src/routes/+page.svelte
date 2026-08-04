@@ -38,6 +38,7 @@
 
 <Layout>
 	{#if !$kioskMode}
+		<img class="fairLogo" src="/4h_250.png" alt="Somerset County 4-H Fair logo" />
 		<h1 class="center">Welcome to the Somerset County 4‑H Fair.</h1>
 		{#if showSetupBox}
 			<div class="installBox">
@@ -95,6 +96,12 @@
 </Layout>
 
 <style lang="scss">
+	.fairLogo {
+		display: block;
+		width: 100%;
+		max-width: 200px;
+		margin: 0 auto;
+	}
 	.installBox {
 		> .bottom {
 			display: flex;
