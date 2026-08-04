@@ -295,7 +295,7 @@
 					<p>Trust me, it's a lot of fun… and there's even a prize!</p>
 				</KioskPitch>
 			{:else}
-				<p>The scavenger hunt is not ready yet, come back when the fair starts!</p>
+				<p>The scavenger hunt is not ready yet!</p>
 			{/if}
 		</div>
 	{/if}

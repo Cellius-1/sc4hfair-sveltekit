@@ -10,6 +10,9 @@
 	import { isOnline, menuOpen } from 'logic/stores';
 	import 'styles/button.css';
 
+	import { year as shYear } from 'data/shClues.json';
+	const currentYear = new Date().getFullYear();
+
 	export let offsetContent = true;
 </script>
 
@@ -58,7 +61,9 @@
 				<LinkButton header label="Food" icon="fastfood" href="/food" />
 				<LinkButton header label="Schedule" icon="event_note" href="/schedule" />
 				<LinkButton header label="Clubs" icon="groups" href="/clubs" />
-				<LinkButton header label="Scavenger Hunt" icon="travel_explore" href="/scavenger-hunt" />
+				{#if shYear === currentYear}
+					<LinkButton header label="Scavenger Hunt" icon="travel_explore" href="/scavenger-hunt" />
+				{/if}
 			</div>
 			<div class="menuBottom">
 				<ThemeSwitcher header />
