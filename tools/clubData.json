@@ -24,10 +24,10 @@
 		"name": "Branchburg Beef, Dairy and Livestock",
 		"description": "Members learn about the care and management of raising livestock, including feeding, breeding and proper handling in and out of the show ring.",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
-		"meetingWhen": "The 1st Wednesday of every month at 7:30 pm",
+		"meetingWhen": "The 1st Wednesday of every month at 7 pm",
 		"grades": "4-13",
 		"clubWebsite": null,
-		"tent": "dairy-beef"
+		"tent": "beef"
 	},
 	{
 		"listingWebsite": "https://4histops.org/chaps-spurs",
@@ -70,9 +70,24 @@
 		"description": "Members learn all about small animals, such as rabbits, cavies and rodents. By learning the proper care and handling of small animals, members strengthen their sense of responsibility as pet owners. There is an emphasis on public speaking and public education. Members also learn about animal safety.",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
 		"meetingWhen": "The 3rd Thursday of every month at 7 pm",
-		"grades": "1-13",
+		"grades": "4-13",
 		"clubWebsite": null,
 		"tent": "small-animals"
+	},
+	{
+		"listingWebsite": "https://4histops.org/hoofin-it",
+		"slug": "hoofin-it",
+		"tags": [
+			"animals",
+			"horses"
+		],
+		"name": "Hoofin\u2019 It",
+		"description": "Members learn about the responsibility of equine ownership. Youth learn about breeds, coats, anatomy and proper care of horses.",
+		"meetingLocation": "Ted Blum 4\u2011H Center",
+		"meetingWhen": "The 1st Monday of the month at 7 pm.",
+		"grades": "K-13",
+		"clubWebsite": null,
+		"tent": "horses"
 	},
 	{
 		"listingWebsite": "https://4histops.org/huggable-hares",
@@ -132,7 +147,7 @@
 		"meetingWhen": "Business meetings are held the 2nd Wednesday of every month at 7 pm. There are activities throughout each month.",
 		"grades": "4-13",
 		"clubWebsite": null,
-		"tent": "dairy-beef"
+		"tent": "dairy"
 	},
 	{
 		"listingWebsite": "https://4histops.org/new-center-dairy-prep",
@@ -147,7 +162,7 @@
 		"meetingWhen": "Business meetings are held the 2nd Wednesday of every month at 7 pm. There are activities throughout each month.",
 		"grades": "K-3",
 		"clubWebsite": null,
-		"tent": "dairy-beef"
+		"tent": "dairy"
 	},
 	{
 		"listingWebsite": "https://4histops.org/sheepfold",
@@ -171,13 +186,28 @@
 			"animals",
 			"reptiles & amphibians"
 		],
-		"name": "Sidewinders Club",
-		"description": "By emphasizing proper care and maintenance, members learn about domestic and exotic amphibians and reptiles and their environments.",
+		"name": "Sidewinders Herpetology/Aquatic Science Club",
+		"description": "Sidewinders Herpetology and Aquatic Science club is a 4-H club for youth in grades 4 through 13. We meet every 2nd and 4th Tuesday at 7:30 p.m. Our goal is to educate members about the proper care and husbandry of reptiles, amphibians, fish, and aquatic animals. Each meeting includes a species showcase, where members can display their pets, discuss their handling techniques, and even demonstrate animal behaviors when the weather permits. The club\u2019s activities culminate in the 4-H fair, where members can showcase their animals and engage the public in learning about herpetology and aquatic science.",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
 		"meetingWhen": "The 2nd and 4th Tuesday of every month at 7:30pm",
 		"grades": "4-13",
 		"clubWebsite": null,
 		"tent": "herpetology"
+	},
+	{
+		"listingWebsite": "https://4histops.org/tailfeathers",
+		"slug": "tailfeathers",
+		"tags": [
+			"animals",
+			"poultry"
+		],
+		"name": "Tailfeathers",
+		"description": "Members in the poultry project learn the responsibility, sportsmanship and proper animal care by working hands-on with chickens, turkeys and other poultry.",
+		"meetingLocation": "Ted Blum 4\u2011H Center",
+		"meetingWhen": "The 3rd Wednesday of the month at 6 pm.",
+		"grades": "K-13",
+		"clubWebsite": null,
+		"tent": "poultry"
 	},
 	{
 		"listingWebsite": "https://4histops.org/wattles-snood",
@@ -187,7 +217,7 @@
 			"poultry"
 		],
 		"name": "Wattles & Snood",
-		"description": "Member in the poultry project learn the responsibility, sportsmanship and proper animal care by working hands-on with chickens, turkeys and other poultry.",
+		"description": "Members in the poultry project learn the responsibility, sportsmanship and proper animal care by working hands-on with chickens, turkeys and other poultry.",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
 		"meetingWhen": "The 2nd Thursday of every month at 7pm",
 		"grades": "K-13",
@@ -231,10 +261,25 @@
 			"community service & leadership"
 		],
 		"name": "Senior Council",
-		"description": "Senior Council is a teen-run council for members in 8th-13th grade who are passionate about community service. Members plan and participate in projects that help not only the 4-H community, but also all of Somerset County.",
+		"description": "This club is not currently taking new members.\n\nSenior Council is a teen-run council for members in 8th-13th grade who are passionate about community service. Members plan and participate in projects that help not only the 4-H community, but also all of Somerset County.",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
 		"meetingWhen": "The 1st Thursday of every month at 7:30 pm + at least one other day per month for service activity.",
 		"grades": "8-13",
+		"clubWebsite": null,
+		"tent": "arts-sciences"
+	},
+	{
+		"listingWebsite": "https://4histops.org/junior-lifesavers",
+		"slug": "junior-lifesavers",
+		"tags": [
+			"community service & leadership",
+			"medical learning"
+		],
+		"name": "Junior Lifesavers",
+		"description": "Junior Lifesavers is a club for students who are curious about the medical industry and relevant conditions such as cancer,\u00a0POTS, and Alzheimer\u2019s. Students will have opportunities\u00a0to aid in disaster relief, meet with guest speakers, and contribute to the community through the support of underserved individuals. Members will gain valuable team and volunteer experience, have opportunities\u00a0to gain leadership roles, and make an impact\u00a0on their community!",
+		"meetingLocation": "Ted Blum 4\u2011H Center",
+		"meetingWhen": "The 1st and 3rd Thursday of every month at 7:00pm",
+		"grades": "4-8",
 		"clubWebsite": null,
 		"tent": "arts-sciences"
 	},
@@ -305,11 +350,26 @@
 			"computers & robotics",
 			"game creation"
 		],
-		"name": "4\u2011H Coding Step Club",
-		"description": "A 6-week club learning coding and game creation. Dates to be determined.\n\n*STEP stands for Short Term Exploratory Program",
+		"name": "4\u2011H Coding Step* Club: Python",
+		"description": "Learning coding and game creation.\n\n*STEP stands for Short Term Exploratory Program",
 		"meetingLocation": "Virtually",
-		"meetingWhen": "Sundays, 10-11am",
-		"grades": "2nd-8th",
+		"meetingWhen": "Sundays, 10-11 AM; dates to be determined (5 meetings)",
+		"grades": "6-8",
+		"clubWebsite": null,
+		"tent": "arts-sciences"
+	},
+	{
+		"listingWebsite": "https://4histops.org/4-h-coding-step-scratch",
+		"slug": "4-h-coding-step-scratch",
+		"tags": [
+			"computers & robotics",
+			"game creation"
+		],
+		"name": "4\u2011H Coding Step* Club: Scratch",
+		"description": "Learning coding and game creation.\n\n*STEP stands for Short Term Exploratory Program",
+		"meetingLocation": "Virtually",
+		"meetingWhen": "Sundays, 10-11 AM; dates to be determined (6 meetings)",
+		"grades": "2-5",
 		"clubWebsite": null,
 		"tent": "arts-sciences"
 	},
@@ -322,25 +382,10 @@
 		],
 		"name": "4\u2011H Computers",
 		"description": "In the 4-H Computer Club, we share our knowledge and excitement about computers, \u201clearn more by doing\u201d projects, and share what we learn with the community. We take computers apart, repair broken computers, build computers from parts, install and experiment with different operating systems, create a computer network, or automate hardware using Raspberry Pi and Arduino. We also do web design and coding. We also run the Somerset County 4-H Fair App!",
-		"meetingLocation": "Ted Blum 4\u2011H Center",
-		"meetingWhen": "The 1st and 3rd Tuesday of every month at 6 pm.",
+		"meetingLocation": "Ted Blum 4\u2011H Center and Virtual",
+		"meetingWhen": "1st Thursday of the month from 6PM-8PM",
 		"grades": "4-13",
 		"clubWebsite": "https://4hcomputers.club",
-		"tent": "arts-sciences"
-	},
-	{
-		"listingWebsite": "https://4histops.org/cloud-computing-club",
-		"slug": "cloud-computing-club",
-		"tags": [
-			"computers & robotics",
-			"computer science"
-		],
-		"name": "Cloud Computing Club",
-		"description": "Members learn the details of what cloud computing is and gain the confidence to design and host an end website in the cloud. Basic HTML, JavaScript, and Python are taught in this club. Members experience the tools used to host websites in the cloud such as Amazon, S3 Buckets, and Lamb-da.\n\nCheck out both our Flyers Here and Here",
-		"meetingLocation": "Virtually",
-		"meetingWhen": "The 2nd and 4th Sunday of the month from 4-5 pm",
-		"grades": "4-13",
-		"clubWebsite": null,
 		"tent": "arts-sciences"
 	},
 	{
@@ -351,7 +396,7 @@
 			"lego robotics"
 		],
 		"name": "Servos 4\u2011H Robotics Club",
-		"description": "Members use LEGO\u00ae robotics to learn how to design, build, and program robots. Some clubs also participate in the FIRST LEGO\u00ae League Competition.",
+		"description": "Members use LEGO\u00ae robotics to learn how to design, build, and program robots.",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
 		"meetingWhen": "The 1st and 3rd Thursday of the month from 7 to 8:30 pm",
 		"grades": "4-12",
@@ -374,6 +419,38 @@
 		"tent": "arts-sciences"
 	},
 	{
+		"listingWebsite": "https://4histops.org/makers-guild",
+		"slug": "makers-guild",
+		"tags": [
+			"creative arts",
+			"craftsmanship"
+		],
+		"name": "4\u2011H Makers Guild",
+		"description": "This 4-H club is open to youth in 6th grade and above who are interested in blacksmithing, woodworking, and metal casting. Members will learn how to safely use tools, shape metal and wood, and create both functional and artistic projects. The club promotes creativity, craftsmanship, and confidence through hands-on learning in traditional trades.",
+		"meetingLocation": "Ted Blum 4\u2011H Center",
+		"meetingWhen": "The 2nd and 4th Mondays of each month from 6:30-8:30 pm",
+		"grades": "6-13",
+		"clubWebsite": null,
+		"tent": "arts-sciences"
+	},
+	{
+		"listingWebsite": "https://4histops.org/all-over-clover",
+		"slug": "all-over-clover",
+		"tags": [
+			"creative arts",
+			"science",
+			"food",
+			"arts & crafts"
+		],
+		"name": "All Over Clover Prep Club",
+		"description": "Science, food, arts and crafts\u2026this club is all over the place! A great way to explore different interests. Each member, with the help of their parent/guardian, will plan and lead a meeting.",
+		"meetingLocation": "Ted Blum 4\u2011H Center",
+		"meetingWhen": "The 3rd Wednesday of every month at 6:30pm",
+		"grades": "1-8",
+		"clubWebsite": null,
+		"tent": "prep"
+	},
+	{
 		"listingWebsite": "https://4histops.org/4h-anime-manga-club",
 		"slug": "4h-anime-manga-club",
 		"tags": [
@@ -385,7 +462,7 @@
 		"meetingLocation": "Ted Blum 4\u2011H Center",
 		"meetingWhen": "The 2nd Tuesday of the Month (for Fun Anime Night) and the 4th Tuesday of the Month at 7 pm.",
 		"grades": "7-13",
-		"clubWebsite": null,
+		"clubWebsite": "https://4-hclovercon.com/",
 		"tent": "arts-sciences"
 	},
 	{
@@ -413,7 +490,7 @@
 		"name": "Crafter Masters",
 		"description": "A group led club creating family inspired crafts with some emphasis on seasons and holidays. All modalities will be explored to create fun and unique crafts. Bring your creativity and inspirations.",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
-		"meetingWhen": "1st and 3rd Fridays of each month 7:00 \u2013 8:15 pm",
+		"meetingWhen": "1st Friday of each month 7:00 \u2013 8:15 pm",
 		"grades": "K-8",
 		"clubWebsite": null,
 		"tent": "arts-sciences"
@@ -504,7 +581,22 @@
 		"description": "Photobombers is a social, welcoming 4-H club that focuses on experimenting, improving photography techniques and having fun. Our meetings are a mix of field trips, friendly critiques and presentations from professionals. We are open to all skills levels, no experience or camera necessary, although ANY device that has a camera is always welcome! \u00a0Members develop photography skills throughout the year and proudly display their work at the 4-H Fair and/or Open Division.",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
 		"meetingWhen": "The 1st and 3rd Wednesday of every month from 7-8:30pm",
-		"grades": "4-13",
+		"grades": "6-13",
+		"clubWebsite": null,
+		"tent": "arts-sciences"
+	},
+	{
+		"listingWebsite": "https://4histops.org/photography-and-more",
+		"slug": "photography-and-more",
+		"tags": [
+			"creative arts",
+			"photography"
+		],
+		"name": "Photography & More",
+		"description": "This club is a great intro to photography and more in a fun social setting. Meetings are a mix of hands-on activities, presentations from professionals for skill development, and collaboration with the 4-H Photobombers. We are open to all skills levels, no experience or camera necessary, although ANY device that has a camera is always welcome! \u00a0Members can proudly display their work at the 4-H Fair and/or Open Division.",
+		"meetingLocation": "Ted Blum 4\u2011H Center",
+		"meetingWhen": "The 4th Monday of the month from 6:30-7:30pm",
+		"grades": "3-5",
 		"clubWebsite": null,
 		"tent": "arts-sciences"
 	},
@@ -533,7 +625,7 @@
 		"name": "Puppet Design Prep Club",
 		"description": "Get ready for some puppet show fun! Learn the concepts of how hand puppets and marionettes move. Explore how stuffed animals and dolls can come to life. Enjoy pretend play while sparking creativity, expanding attention span, and enhancing fine motor skills.",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
-		"meetingWhen": "The 2nd Tuesday of each month at 7:00 pm",
+		"meetingWhen": "The 4th Tuesday of each month at 7:00 pm",
 		"grades": "K-3",
 		"clubWebsite": null,
 		"tent": "prep"
@@ -564,7 +656,7 @@
 		"description": "Members learn the basics of playing chess.",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
 		"meetingWhen": "The 2nd and the 4th Thursday of the month at 6.30 PM",
-		"grades": "1-3",
+		"grades": "1-13",
 		"clubWebsite": null,
 		"tent": "prep"
 	},
@@ -578,8 +670,23 @@
 		"name": "Quilting Club",
 		"description": "The Quilting Club is a creative and fun space where young makers come together to learn the art of quilting. Through hands-on projects, members explore fabric design, sewing techniques, and teamwork, creating beautiful quilts while building lasting friendships. Whether you're a beginner or an experienced crafter, the club is open to all who are eager to express themselves through fabric and thread!",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
-		"meetingWhen": "The 1st and 3rd Thursday of each month, 7-9pm",
+		"meetingWhen": "The 1st and 3rd Tuesdays of each month, 7pm",
 		"grades": "5-13",
+		"clubWebsite": null,
+		"tent": "arts-sciences"
+	},
+	{
+		"listingWebsite": "https://4histops.org/rock-band-music-club",
+		"slug": "rock-band-music-club",
+		"tags": [
+			"creative arts",
+			"music"
+		],
+		"name": "Rock Band Music Club",
+		"description": "This club is a group of rock bands practicing their favorite music, developing instrumental skills (i.e. acoustic/electric guitar, electric bass, drums, flute), and learning from peers. Members must provide their own instrument.",
+		"meetingLocation": "Ted Blum 4\u2011H Center",
+		"meetingWhen": "2nd and 4th Tuesday of the month 6:00 \u2013 7:30pm",
+		"grades": "6th grade and up",
 		"clubWebsite": null,
 		"tent": "arts-sciences"
 	},
@@ -651,7 +758,7 @@
 			"theatre"
 		],
 		"name": "The Prep Ensemble",
-		"description": "Come and pretend with The Prep Ensemble! Every week we meet, we do a craft, read a story, act it out, and then play a game. In the summer, members will have the opportunity to act with our sister club, The Clover Ensemble",
+		"description": "Join The Prep Ensemble and do crafts, read stories, act them out, and play games! Members will also have the opportunity to act with our sister club, The Clover Ensemble",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
 		"meetingWhen": "The 2nd Tuesday of every month at 6:30pm",
 		"grades": "K-3",
@@ -687,21 +794,6 @@
 		"grades": "4-13",
 		"clubWebsite": null,
 		"tent": "arts-sciences"
-	},
-	{
-		"listingWebsite": "https://4histops.org/cooking-club",
-		"slug": "cooking-club",
-		"tags": [
-			"healthy living & outdoor activities",
-			"cooking"
-		],
-		"name": "Cooking Club",
-		"description": "Through hands-on activities, young chefs gain experience preparing simple, fun, and healthy foods - featuring a special focus on Indian cuisine.",
-		"meetingLocation": "Ted Blum 4\u2011H Center",
-		"meetingWhen": "The 2nd Friday of each month from 6:30 - 7:30 pm",
-		"grades": "K-3",
-		"clubWebsite": null,
-		"tent": "prep"
 	},
 	{
 		"listingWebsite": "https://4histops.org/crazy-frog-hoppers",
@@ -742,8 +834,8 @@
 		],
 		"name": "Dollars & Sense Finance Club",
 		"description": "It\u2019s never too soon to learn about money! Join this club to learn about all things finance and how to apply it in everyday life.",
-		"meetingLocation": "At the Franklin Township Public Library.",
-		"meetingWhen": "1st Wednesday of the month at 6:30 PM.",
+		"meetingLocation": "Ted Blum 4\u2011H Center",
+		"meetingWhen": "3rd Friday of the month at 6:30 PM.",
 		"grades": "4-13",
 		"clubWebsite": null,
 		"tent": "arts-sciences"
@@ -771,8 +863,8 @@
 			"archery"
 		],
 		"name": "Hawkeye Archers",
-		"description": "At Hawkeye Archers, we focus on archery equipment and training.\u00a0 The goal of our program is to create a strong archery foundation which will be tracked and monitored by score production.\u00a0 As a young developing archer, you will learn the tools to be successful along with tracking and monitoring your performance by score progress.\u00a0 Members will learn core foundations and have the opportunity to grow and succeed at the county, state and hopefully one day the nation 4-H level.\u00a0 Archers will also learn team work, community service, public speaking as well as important social skills.\u00a0 We look forward to growing the sport of archery together.",
-		"meetingLocation": "Ted Blum 4\u2011H Center",
+		"description": "At Hawkeye Archers, we focus on archery equipment and training.\u00a0 The goal of our program is to create a strong archery foundation which will be tracked and monitored by score production.\u00a0 As a young developing archer, you will learn the tools to be successful along with tracking and monitoring your performance by score progress.\u00a0 Members will learn core foundations and have the opportunity to grow and succeed at the county, state and hopefully one day the national 4-H level.\u00a0 Archers will also learn team work, community service, public speaking as well as important social skills.\u00a0 We look forward to growing the sport of archery together.",
+		"meetingLocation": "1 Jill Court, Unit 4, Hillsborough, NJ 08844",
 		"meetingWhen": "2nd, 3rd and 4th Tuesdays of the month at 7 pm",
 		"grades": "4-13",
 		"clubWebsite": null,
@@ -794,18 +886,18 @@
 		"tent": "arts-sciences"
 	},
 	{
-		"listingWebsite": "https://4histops.org/4-h-homeschool-club",
-		"slug": "4-h-homeschool-club",
+		"listingWebsite": "https://4histops.org/homeschool-connections",
+		"slug": "homeschool-connections",
 		"tags": [
 			"healthy living & outdoor activities",
 			"general interest",
 			"homeschoolers"
 		],
-		"name": "4\u2011H Homeschool Club",
+		"name": "Homeschool Connections",
 		"description": "A club where homeschoolers can connect, explore, grow, and be a part of 4-H.",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
-		"meetingWhen": "Weekday afternoons - days/times are TBD",
-		"grades": "K-13",
+		"meetingWhen": "Every Monday from 1-3pm",
+		"grades": "6-13",
 		"clubWebsite": null,
 		"tent": "arts-sciences"
 	},
@@ -864,10 +956,40 @@
 		"name": "Proud 2B Prep",
 		"description": "Explore some of the many different project areas available through 4-H, cook and do craft projects.",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
-		"meetingWhen": "The 2nd and 4th Mondays of the month at 6:30 pm",
+		"meetingWhen": "The 2nd Monday of the month at 6:30 pm",
 		"grades": "K-3",
 		"clubWebsite": null,
 		"tent": "prep"
+	},
+	{
+		"listingWebsite": "https://4histops.org/social-communications",
+		"slug": "social-communications",
+		"tags": [
+			"healthy living & outdoor activities",
+			"social skills"
+		],
+		"name": "Social Communication Club",
+		"description": "Engage in a supportive, interactive,\u00a0 inclusive club specifically designed for neurodiverse children. Members will practice turn-taking, sharing, and cooperation through board games, creative projects, crafts, dancing, and exercise.",
+		"meetingLocation": "Ted Blum 4\u2011H Center",
+		"meetingWhen": "1st and 2nd Wednesday of the month from 6:15pm - 7:00pm",
+		"grades": "3-6",
+		"clubWebsite": null,
+		"tent": "arts-sciences"
+	},
+	{
+		"listingWebsite": "https://4histops.org/too-cool-for-school",
+		"slug": "too-cool-for-school",
+		"tags": [
+			"healthy living & outdoor activities",
+			"homeschoolers"
+		],
+		"name": "Too Cool For School Homeschool Club",
+		"description": "A club where homeschoolers can connect, explore, grow, and be a part of 4-H.",
+		"meetingLocation": "Ted Blum 4\u2011H Center",
+		"meetingWhen": "Every Tuesday from 1-3pm",
+		"grades": "K-8",
+		"clubWebsite": null,
+		"tent": "arts-sciences"
 	},
 	{
 		"listingWebsite": "https://4histops.org/twirling-clovers",
@@ -879,8 +1001,23 @@
 		"name": "Twirling Clovers",
 		"description": "Members gain confidence by performing twirling routines in front of an audience, with an emphasis on teamwork and coordination.",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
-		"meetingWhen": "The 1st and 3rd Friday of every month at 6 pm",
+		"meetingWhen": "The 3rd Friday of every month at 7 pm",
 		"grades": "2-13",
+		"clubWebsite": null,
+		"tent": "arts-sciences"
+	},
+	{
+		"listingWebsite": "https://4histops.org/drone-club",
+		"slug": "drone-club",
+		"tags": [
+			"mechanical sciences",
+			"drones"
+		],
+		"name": "4\u2011H Drone Club",
+		"description": "Ready to take flight? In the 4-H Drone Club, members explore the exciting world of drones\u2014learning about their uses, mechanics, and safety. Each meeting brings a new adventure as members design creative obstacle courses and compete in timed races. It\u2019s all about innovation, teamwork, and fun! Come build, fly, and race with us\u2014your next great adventure is just a drone away!",
+		"meetingLocation": "The Ted Blum 4\u2011H Center",
+		"meetingWhen": "The 4th Thursday of the month, 7:00 PM \u2013 8:30 PM",
+		"grades": "1\u201313 (one year out of high school)",
 		"clubWebsite": null,
 		"tent": "arts-sciences"
 	},
@@ -909,7 +1046,7 @@
 		"name": "4\u2011H Go-Kart Juniors",
 		"description": "Ready, set, go! Experience the thrill of go-kart driving in a safe and supervised environment. Learn essential safety practices, from proper safety gear use to kart maintenance, while building and customizing your go-kart. Master driving techniques; engage in exciting, timed laps; and discover the ins and outs of the kart. Enjoy speed and fun with a strong focus on safety and teamwork.",
 		"meetingLocation": "Ted Blum 4\u2011H Center",
-		"meetingWhen": "3rd Wednesday of the month at 7:00pm",
+		"meetingWhen": "3rd Wednesday of the month at 7pm",
 		"grades": "2-3",
 		"clubWebsite": null,
 		"tent": "prep"
@@ -990,6 +1127,21 @@
 		"tent": "garden-bees"
 	},
 	{
+		"listingWebsite": "https://4histops.org/bug-club",
+		"slug": "bug-club",
+		"tags": [
+			"nature & environment",
+			"bugs"
+		],
+		"name": "Bug Club",
+		"description": "Explore the amazing world of insects through stories, simple activities, and outdoor discovery!",
+		"meetingLocation": "Ted Blum 4\u2011H Center",
+		"meetingWhen": "The 2nd Wednesday of every month at 4:30 pm (April \u2013 June, 2026)",
+		"grades": "K-3",
+		"clubWebsite": null,
+		"tent": "prep"
+	},
+	{
 		"listingWebsite": "https://4histops.org/penguin-step",
 		"slug": "penguin-step",
 		"tags": [
@@ -997,11 +1149,11 @@
 			"penguins",
 			"research"
 		],
-		"name": "4\u2011H Penguin Step Club",
-		"description": "Join us for a STEP club & live Teleconference with Polar Scientists in Antarctica! Get to know the penguins of Palmer Research Base and dig into data to discover how climate impacts species in an icy habitat.\n\nSee below for registration link!",
-		"meetingLocation": "Zoom",
-		"meetingWhen": "4:30-5:30pm, Tuesdays in February from 2/4/2025 through 2/25/2025, with an in-person component on 3/1/2025.",
-		"grades": "5-8",
+		"name": "Antarctic Explorers Step Club",
+		"description": "Join us for the Antarctic Explorers STEP club using Rutgers curriculum \u201cData to the Rescue: Penguins Need Our Help!\u201d Get to know the penguins of Palmer Research base and dig into data to discover how climate impacts species in an icy habitat. Connect with Polar Scientists in Antarctica on a live Video Call!\n\nSee below for registration link!\n\nhttps://rutgers.ca1.qualtrics.com/jfe/form/SV_07CUczMvQZMFXW6",
+		"meetingLocation": "Ted Blum 4\u2011H Center",
+		"meetingWhen": "Wednesdays in February 2026 (2/4, 2/11, 2/18, 2/25), Live Video Call on Saturday, March 7th | 4:30-5:30pm",
+		"grades": "4-8",
 		"clubWebsite": null,
 		"tent": "arts-sciences"
 	},
@@ -1027,11 +1179,11 @@
 			"nature & environment",
 			"birding"
 		],
-		"name": "E Bird Explorers Step Club",
-		"description": "Join us for a\u00a010 week Birding STEP club to learn about unique features of birds, develop bird ID skills, & engage in participatory science through birding. Meetings will be based on the Cornell Lab of Ornithology curriculum and include outdoor birding sessions.\n\nSee below for registration link!",
-		"meetingLocation": "Ted Blum 4\u2011H Center, 310 Milltown Road in Bridgewater.",
-		"meetingWhen": "Wednesdays from 4-5pm, March 12 through May 14, 2025",
-		"grades": "6-10",
+		"name": "Youth Birding Step Club",
+		"description": "Join us for the Spring season of Somerset County 4-H Youth Birding Club! Witness the spring bird migration while developing bird ID skills and engaging in participatory science. Meetings will be based on the Cornell Lab of Ornithology curriculum and include outdoor birding sessions. Spend time in nature visiting different parks around Somerset County.\n\n\n\nSpring 2026 Schedule:\n\n3/18, 4/1, 4/15, 4/29, 5/13, 5/27",
+		"meetingLocation": "Ted Blum 4\u2011H Center, 310 Milltown Road in Bridgewater and local parks",
+		"meetingWhen": "Wednesdays from 4:30-5:30pm",
+		"grades": "5 and up",
 		"clubWebsite": null,
 		"tent": "arts-sciences"
 	}

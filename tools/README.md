@@ -16,7 +16,7 @@ this scripts are not yet migrated to the new [admin panel](https://github.com/ca
 3. `python updateClubData.py`
 4. check changes to `clubData.json`, look for missing tents
 5. update mapping in `tentsToClubs.json`, make sure all clubs are accounted for
-6. `python updateClubData.py` again (optional, or make the changed from 5 as you go)
+6. `python updateClubData.py` again (optional, or make the changes from 5 as you go)
 7. `python clubDataToContentful.py`
 8. if adding later, use `python updateContentfulClubTents.py` to only push tent changes
 
