@@ -97,7 +97,17 @@
 		to?.url.searchParams.delete('kiosk');
 
 		let referrer = to?.url.searchParams.get('referrer');
-		if (referrer === 'sh') {
+
+		let utm = [
+			to?.url.searchParams.get('utm_source'),
+			to?.url.searchParams.get('utm_medium'),
+			to?.url.searchParams.get('utm_campaign'),
+		]
+			.filter(Boolean)
+			.join('-');
+
+		if (!referrer && utm) referrer = utm;
+		else if (referrer === 'sh') {
 			// todo: use full referrer in new printouts
 			const code = to?.url.searchParams.get('code');
 			if (code) referrer = `sh-${code}`;
