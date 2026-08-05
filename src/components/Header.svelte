@@ -58,7 +58,7 @@
 				<LinkButton header label="Food" icon="fastfood" href="/food" />
 				<LinkButton header label="Schedule" icon="event_note" href="/schedule" />
 				<LinkButton header label="Clubs" icon="groups" href="/clubs" />
-				<LinkButton header label="Commercial Vendors" icon="storefront" href="/map?locate=commercial" />
+				<LinkButton header label="Commercial Vendors" icon="storefront" href="/commercial-vendors" />
 			</div>
 			<div class="menuBottom">
 				<ThemeSwitcher header />
