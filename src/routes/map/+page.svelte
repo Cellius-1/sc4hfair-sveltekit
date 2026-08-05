@@ -14,9 +14,9 @@
 	export let data;
 
 	// the source/layer that contains our features
-	const style = 'mapbox://styles/4hcomputers/cmdxtrs22015y01s200c5eo4h',
+	const style = 'mapbox://styles/4hcomputers/cmsf5cow000r001qo23xw472s',
 		source = 'composite',
-		sourceLayer = 'Fair_Tents_2025_with_names', // the name of the tileset
+		sourceLayer = 'Fair_Tents_2026_with_names', // the name of the tileset
 		sourceLayerId = 'Tents Flat'; // the name of the layer in the style with the click interaction
 
 	mapboxgl.accessToken =
