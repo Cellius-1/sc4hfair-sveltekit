@@ -19,7 +19,13 @@ clubDataOverrides = {
 	'computer-club': {
 		"slug": "4h-computers",
 		"name": "4‑H Computers",
-		"clubWebsite": "https://4hcomputers.club"
+		"clubWebsite": "https://4hcomputers.club",
+
+		# website lost data
+		"description": "In the 4-H Computer Club, we share our knowledge and excitement about computers, \u201clearn more by doing\u201d projects, and share what we learn with the community. We take computers apart, repair broken computers, build computers from parts, install and experiment with different operating systems, create a computer network, or automate hardware using Raspberry Pi and Arduino. We also do web design and coding. We also run the Somerset County 4-H Fair App!",
+		"grades": "4-13",
+		"meetingLocation": "Ted Blum 4\u2011H Center and Virtual",
+		"meetingWhen": "1st Thursday of the month from 6PM-8PM"
 	},
 	'4h-anime-manga-club': {
 		"clubWebsite": "https://4-hclovercon.com/",

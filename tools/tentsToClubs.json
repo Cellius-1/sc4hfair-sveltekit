@@ -2,17 +2,18 @@
 	"dog-show": [],
 	"goats": ["just-kidding"],
 	"model-trains": ["somerset-4h-trainmasters"],
-	"dairy-beef": ["branchburg-livestock", "new-centre-dairy", "new-center-dairy-prep"],
+	"dairy": ["new-centre-dairy", "new-center-dairy-prep"],
+	"beef": ["branchburg-livestock"],
 	"sheep": ["sheepfold", "woolly-ones"],
 	"rc-cars": ["radio-control-car-club"],
-	"horses": ["chaps-spurs"],
+	"horses": ["chaps-spurs", "hoofin-it"],
 	"dogs": ["k9-leaders-seeing-eye-club", "wags-whiskers", "woof"],
 	"alpacas": ["alpaca-club"],
 	"show": [],
 	"robotics": [],
 	"herpetology": ["sidewinders-club", "something-fishy-aquatic-science"],
 	"garden-bees": ["4h-beekeeping-club", "garden-and-bee-club"],
-	"poultry": ["wattles-snood"],
+	"poultry": ["wattles-snood", "tailfeathers"],
 	"small-animals": ["hippity-hoppity-happy-handlers", "huggable-hares"],
 	"prep": [
 		"crafty-clovers",
@@ -33,7 +34,8 @@
 		"lego-club",
 		"chess",
 		"cooking-club",
-		"4h-gokart-juniors"
+		"4h-gokart-juniors",
+		"bug-club"
 	],
 	"arts-sciences": [
 		"4h-anime-manga-club",
@@ -75,6 +77,14 @@
 		"4-h-homeschool-club",
 		"penguin-step",
 		"birding-step",
+		"junior-lifesavers",
+		"4-h-coding-step-scratch",
+		"makers-guild",
+		"photography-and-more",
+		"rock-band-music-club",
+		"homeschool-connections",
+		"social-communications",
+		"too-cool-for-school",
 
 		"area14-robotics-club",
 		"4h-bananabots-robotics-club",
@@ -83,7 +93,8 @@
 		"servos-4h-robotics-club",
 		"monster-mechanics",
 		"broken-props-model-airplane",
-		"somerset-sentinels-rocket-club"
+		"somerset-sentinels-rocket-club",
+		"drone-club"
 	],
 	"go-kart-track": ["4h-gokart-club"],
 	"archery": ["on-target-archery-club", "hawkeye-archers"]

@@ -91,6 +91,7 @@ for club in data:
 		print(newData.text)
 		print('---')
 		# readd the club to try again later
+		# todo: allow unarchiving a club if it comes back
 		data.append(club)
 		continue
 
